@@ -1,4 +1,4 @@
-> ### Hi, there I'm minhyuk Kim. I'm growing through trial and error every day.
+> ### Hi there, I'm minhyuk Kim. I'm growing through trial and error every day.
 
 <!--
 **BEpaul/BEpaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
